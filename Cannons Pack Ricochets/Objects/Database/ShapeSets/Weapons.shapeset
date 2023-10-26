@@ -1,0 +1,46 @@
+{
+	"partList": [
+		{
+			"uuid": "967bdaf1-3c00-4f52-b43c-02379d2e095c",
+			"name": "ModifiedSmartCannon",
+			"renderable": "$CONTENT_c0344d93-7492-46c8-88be-a61699e57041/Objects/Renderables/Cannons/SmartCannon.rend",
+			"scripted": {
+				"classname": "ModifiedSmartCannon",
+				"filename": "$CONTENT_DATA/Scripts/ModifiedSmartCannon.lua"
+			},
+			"cylinder": { "axis": "Z", "depth": 1, "diameter": 1 },
+			"physicsMaterial": "Metal",
+			"ratings": { "buoyancy": 0, "density": 2, "durability": 5, "friction": 5 },
+			"flammable": false,
+			"qualityLevel": 5,
+			"color": "375000",
+			"density": 1250.0,
+			"rotationSet": "PropZ",
+			"sticky": "-Z"
+		},
+		{
+			"uuid": "e6c0634f-47ff-4b21-817b-747bd679f682",
+			"name": "ModifiedSmallSmartCannon",
+			"renderable": "$CONTENT_c0344d93-7492-46c8-88be-a61699e57041/Objects/Renderables/Cannons/SmallSmartCannon.rend",
+			"scripted": {
+				"classname": "ModifiedSmartCannon",
+				"filename": "$CONTENT_DATA/Scripts/ModifiedSmartCannon.lua"
+			},
+			"hull": {
+				"margin": 0.025,
+				"col": "$CONTENT_c0344d93-7492-46c8-88be-a61699e57041/Objects/Collisions/SmallSmartCannon.obj",
+				"x": 1,
+				"y": 1,
+				"z": 1
+			},
+			"physicsMaterial": "Metal",
+			"ratings": { "buoyancy": 0, "density": 1, "durability": 5, "friction": 5 },
+			"flammable": false,
+			"qualityLevel": 5,
+			"color": "375000",
+			"density": 250.0,
+			"rotationSet": "PropZ",
+			"sticky": "-Z"
+		}
+	]
+}

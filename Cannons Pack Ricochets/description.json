@@ -1,0 +1,16 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : true,
+   "dependencies" : [
+      {
+         "fileId" : 1904783067,
+         "localId" : "c0344d93-7492-46c8-88be-a61699e57041"
+      }
+   ],
+   "description" : "Cannons Pack Ricochets Addon.\n\nThe addon is currently under development, the icons are not configured.\n\nFor now, the ricochet mechanics are ready, but in the future there will still be a loss of Explosion Level under various conditions.\nWrite suggestions for improvement in the comments.\n\nScript developers:\nQuestionable Mark\nHeterty\n\nLogic:\nSporling\n\nTranslation:\nDriver(Polish)",
+   "fileId" : 3061776084,
+   "localId" : "090bc798-aca2-44e6-b57c-76c0a6986e32",
+   "name" : "Cannons Pack Ricochets",
+   "type" : "Blocks and Parts",
+   "version" : 1
+}

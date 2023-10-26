@@ -1,0 +1,51 @@
+{
+	"particleSystemList":[
+		"ParticleEffects/GreenBeam.json",
+		"ParticleEffects/RocketLauncher/RocketShellFlames.json",
+		"ParticleEffects/OrbitalCannon/OrbitalBeam.json",
+		"ParticleEffects/OrbitalCannon/RedOrbitalBeam.json",
+		"ParticleEffects/OrbitalCannon/OrbitalCannonPointer.json",
+		"ParticleEffects/Railgun/RailgunBeam.json",
+		"ParticleEffects/RocketLauncher/fumes.json",
+		"ParticleEffects/RocketLauncher/RocketFumes.json",
+		"ParticleEffects/Flare/FlareFumes.json",
+		"ParticleEffects/EMPCannon/EMPCannonShoot.json",
+		"ParticleEffects/EMPCannon/EMPCannonShell.json",
+		"ParticleEffects/EMPCannon/EMPCannonShoot2.json",
+		"ParticleEffects/EMPCannon/EMPCannonShellEffect.json",
+		"ParticleEffects/frier_muzzle_effect.json",
+		"ParticleEffects/spudling_muzzle_effect.json",
+		"ParticleEffects/LaserCannon/LaserExplosion01.json",
+		"ParticleEffects/LaserCannon/LaserExplosion02.json",
+		"ParticleEffects/LaserCannon/LaserCannonMuzzleFlash.json",
+
+		//Shell Effects
+		"ParticleEffects/TankShell.json",
+		"ParticleEffects/FlakCannonShell.json",
+		"ParticleEffects/NavalCannon/NavalCannonShell.json",
+		"ParticleEffects/M1AbramsCannonShell.json",
+		"ParticleEffects/DoraCannonShell.json",
+		"ParticleEffects/AircraftCannonShell.json",
+		"ParticleEffects/NavalCannon/NavalCannon2Shell.json",
+		"ParticleEffects/Railgun/RailgunCannonShell.json",
+		"ParticleEffects/HowitzerCannonShell.json",
+		"ParticleEffects/RocketLauncher/RocketLauncherShell.json",
+		"ParticleEffects/NumberLogicCannonShell.json",
+		"ParticleEffects/Flare/FlareShell.json",
+		"ParticleEffects/SmallSmartCannonShell.json",
+		"ParticleEffects/LaserCannon/LaserCannonShell.json",
+
+		//Barrel smoke effects
+		"ParticleEffects/BarrelSmoke/barrel_smoke_naval_cannon.json",
+		"ParticleEffects/BarrelSmoke/barrel_smoke_tank_cannon.json",
+		"ParticleEffects/BarrelSmoke/barrel_smoke_tank_cannon3.json",
+		"ParticleEffects/BarrelSmoke/barrel_smoke_schwerer_gustav.json",
+
+		//Explosions
+		"ParticleEffects/ExplosionEffects/dora_cannon_explosion.json",
+
+		//Rocket Pod Effects
+		"ParticleEffects/RocketPod/SmallRocketFumes.json",
+		"ParticleEffects/RocketPod/RocketPod01Fumes.json"
+	]
+}

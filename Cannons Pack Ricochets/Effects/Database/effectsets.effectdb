@@ -1,0 +1,8 @@
+{
+	"effectSetList": [
+		"$CONTENT_DATA/Effects/Database/EffectSets/CustomShellEffects.json",
+		"$CONTENT_DATA/Effects/Database/EffectSets/CustomShootingEffects.json",
+		"$CONTENT_DATA/Effects/Database/EffectSets/CustomExplosionEffects.json",
+		"$CONTENT_DATA/Effects/Database/EffectSets/Sounds.json"
+	]
+}
